@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\C# Ödevler\ParkingApplication\bin\Debug\ParkingApplication.exe.config
+C:\Users\ramse\Desktop\C# Ödevler\ParkingApplication\bin\Debug\ParkingApplication.exe
+C:\Users\ramse\Desktop\C# Ödevler\ParkingApplication\bin\Debug\ParkingApplication.pdb
+C:\Users\ramse\Desktop\C# Ödevler\ParkingApplication\obj\Debug\ParkingApplication.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\C# Ödevler\ParkingApplication\obj\Debug\ParkingApplication.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\C# Ödevler\ParkingApplication\obj\Debug\ParkingApplication.exe
+C:\Users\ramse\Desktop\C# Ödevler\ParkingApplication\obj\Debug\ParkingApplication.pdb
